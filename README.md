@@ -1,2 +1,2 @@
 # friendfinder
-Friend finder using javascript, node, and express
+Friend finder using javascript, node and express 
