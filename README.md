@@ -2,7 +2,8 @@
 Friend finder is an online app deployed on heroku using node, express and javascript. You can also run it locally with the steps outlined below.
 
 ### heroku link
-
+- deployed to heroku: <br>
+https://peaceful-fjord-79604.herokuapp.com/
   
 
 <br>
