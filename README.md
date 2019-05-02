@@ -18,14 +18,14 @@ node server.js
 
 Congrats, you can now go to ```http://localhost:8080/``` in your browser and add/find friends! 
 
-<br><br>
+<br>
 
 ## Using friendfinder
 Once open you should follow survey instructions 
 
-- NOTE: on buy more items, make sure Yes/No answer is case sensitive
+- NOTE: on heroku app your submission will be saved for comparison too!
 
-<br><br>
+<br>
 
 ## Screenshots
 <img src="ss1.png"><br>
